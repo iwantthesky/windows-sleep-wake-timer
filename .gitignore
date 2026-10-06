@@ -1,0 +1,14 @@
+bin/
+obj/
+*.pdb
+*.user
+*.suo
+Diagnostics/
+*-kaydi.txt
+on-kontrol*.txt
+yetki-kontrolu.txt
+UykuZamanlayici-OnKontrol-*.txt
+*.log
+language.txt
+*.tmp
+*.backup-*
